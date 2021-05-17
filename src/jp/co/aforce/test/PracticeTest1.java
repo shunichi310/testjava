@@ -1,10 +1,11 @@
 package jp.co.aforce.test;
 
 public class PracticeTest1 {
+	
 	public static void main(String[] args) {
 	
 		//練習問題１
-		double TAXRATE = 0.1;
+		 double TAXRATE = 0.1;
 	
 		System.out.println(TAXRATE);
 	
